@@ -1,0 +1,34 @@
+House
+  Tailor's room
+    # 宰肉台 需要靠近门口
+    宰肉台，烹饪台，裁缝台，配件台
+  The slow room
+    # 石头台，熔炉 需要靠近门口
+    T-23 熔炉，biofeul 发酵机，精制木工台，石头台，水泥搅拌机
+  Main hub
+    柜子，T-234 合成台，研钵，铁砧
+  Kitchen
+    # 大肚炉 需要高度
+    厨房台，biofeul 灶台，大肚炉，冰箱，T1 制药台
+  Warmhouse
+    农场，
+  Bedroom
+    床，壁炉，
+  The dark room
+    # Stations that you almost never visit
+    氧气机，玻璃台，
+  Pool & Generator shaft
+
+  notes
+    朝东要有窗 / 阳台 / 温室地洞
+      Unless the building is glass
+    0th floor should be interior wood? 
+      Extend the walls down. Costs less materials. 
+      No beams visible from outside. Bad. 
+      0th floor texture loses variation. Bad. 
+      conclusion: no. 
+
+Food
+  Veggie pie
+  pickled carrot
+  pumpkin bread / beer
